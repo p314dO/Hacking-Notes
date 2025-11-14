@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "933a5fe6a7ea5d5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "54379e98bc867209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "997b5601fef95372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OffSec/OSWE/OSWE - Advanced Web Attacks and Exploitation (WEB-300).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSWE - Advanced Web Attacks and Exploitation (WEB-300)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe7cfc399defa32c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b453cc23fb4c2f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2a7f834a3c610a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "364e0c316581c144",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f7cc1379d0879f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f0fdc3da5224148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c519087a316011f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 635.5
+  },
+  "right": {
+    "id": "261ebe4b6e75bb82",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed096b80973f564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8f437780128c3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7b8a713aa622e542",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "76666640e405ed8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee76e24affbf7a33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "889428ec51bbd28e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "dc2a7f834a3c610a",
+  "lastOpenFiles": [
+    "HackTheBox",
+    "OffSec/OSWE/1. Tools And Methodologies.md",
+    "OffSec/OSWE/OSWE - Advanced Web Attacks and Exploitation (WEB-300).md",
+    "OffSec/Offensive Security.md",
+    "OffSec/OSWE/2. ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE.md",
+    "OffSec/OSWE/images/Pasted image 20251114003546.png",
+    "Table of Contents.md",
+    "Table of content.md",
+    "Untitled.canvas",
+    "OffSec",
+    "OffSec/OSWE/images/Pasted image 20251114003040.png",
+    "OffSec/OSWE/images/Pasted image 20251114003021.png",
+    "OffSec/OSWE/images/Pasted image 20251114002956.png",
+    "OffSec/OSWE/images/Pasted image 20251114002914.png",
+    "Untitled.base",
+    "2025-11-14.md",
+    "OffSec/OSWE/images/Pasted image 20251114002613.png",
+    "OffSec/OSWE/images",
+    "OffSec/OSWE"
+  ]
+}
