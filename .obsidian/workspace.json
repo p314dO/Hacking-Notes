@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OffSec/OSWE/OSWE - Advanced Web Attacks and Exploitation (WEB-300).md",
+                "file": "HackTheBox/Hack The Box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSWE - Advanced Web Attacks and Exploitation (WEB-300)"
+              "title": "Hack The Box"
             }
           }
         ]
@@ -197,11 +197,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dc2a7f834a3c610a",
+  "active": "997b5601fef95372",
   "lastOpenFiles": [
+    "OffSec/OSWE/OSWE - Advanced Web Attacks and Exploitation (WEB-300).md",
+    "HackTheBox/Hack The Box.md",
     "HackTheBox",
     "OffSec/OSWE/1. Tools And Methodologies.md",
-    "OffSec/OSWE/OSWE - Advanced Web Attacks and Exploitation (WEB-300).md",
     "OffSec/Offensive Security.md",
     "OffSec/OSWE/2. ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE.md",
     "OffSec/OSWE/images/Pasted image 20251114003546.png",
