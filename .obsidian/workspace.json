@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 469.5
   },
   "right": {
     "id": "261ebe4b6e75bb82",
@@ -183,17 +183,18 @@
   },
   "active": "963dfabe12ffe8e7",
   "lastOpenFiles": [
-    "OffSec/Offensive Security.md",
+    "OffSec/OSWE/OSWE - Advanced Web Attacks and Exploitation (WEB-300).md",
     "OffSec/OSWE/1. Tools And Methodologies.md",
-    "apache.md",
+    "OffSec/OSWE/2. ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE.md",
+    "Untitled.canvas",
     "OffSec/OSWE/scripts/manageengine_web_requests.py.md",
+    "OffSec/Offensive Security.md",
+    "apache.md",
     "HackTheBox/Hack The Box.md",
     "OffSec/OSWE/images/Pasted image 20251114015316.png",
     "OffSec/OSWE/images/Pasted image 20251114015254.png",
-    "OffSec/OSWE/2. ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE.md",
     "OffSec/OSWE/images/Pasted image 20251114015004.png",
     "OffSec/OSWE/scripts",
-    "OffSec/OSWE/OSWE - Advanced Web Attacks and Exploitation (WEB-300).md",
     "OffSec/OSWE/images/Pasted image 20251114013319.png",
     "OffSec/OSWE/images/Pasted image 20251114013352.png",
     "OffSec/OSWE/images/Pasted image 20251114013332.png",
@@ -204,7 +205,6 @@
     "HackTheBox",
     "Table of Contents.md",
     "Table of content.md",
-    "Untitled.canvas",
     "OffSec",
     "Untitled.base",
     "2025-11-14.md",
